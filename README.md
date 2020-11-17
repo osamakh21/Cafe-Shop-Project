@@ -5,4 +5,4 @@ This repository contains both Front End and Back End for my "Cafe Shop Project" 
 https://github.com/tresnaadin/jenkins-frontend
 
 ## BackEnd
-https://github.com/tresnaadin/jenkins-backend
+https://github.com/tresnaadin/backend-jenkins
