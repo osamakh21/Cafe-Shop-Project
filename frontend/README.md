@@ -1,24 +1,11 @@
-# vue-js-example
+# Front End of Cafe Shop Project
+This is Front End section from Cafe Shop project. It includes asset & components, both code and media (png or jpg) that used on Cafe Shop website project design. The website itself has feature, Login Page, Home Page, History Page, Add & Delete Button.
 
-## Project setup
-```
-npm install
-```
+## Tools:
+* [vue.js] - the progressive javascript framework
+* [Express] - fast node.js network app framework
+* [Bootstrap] - the most popular HTML, CSS, and JS library in the world
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Coder Notes
+This project has many potential to make it more better, and i'll be glad if you could contribute to it.
+If you think this section could be your media to learn about the example of creating website using vue.js framework especially used as front end, you could freely clone or download this section
