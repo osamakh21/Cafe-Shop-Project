@@ -9,4 +9,4 @@ This is Back End section from Cafe Shop project. It includes CRUD features that 
 
 ## Coder Notes
 This project has many potential to make it more better, and i'll be glad if you could contribute to it.
-If you think this little project could be your media to learn about Javascript, Node.js, Express.js and especially on Back End (REST API) things, you could freely clone this repo
+If you think this section could be your media to learn about Javascript, Node.js, Express.js and especially on Back End (REST API) things, you could freely clone or download this section
