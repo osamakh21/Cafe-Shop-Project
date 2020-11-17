@@ -2,8 +2,8 @@
 This is Back End section from Cafe Shop project. It includes CRUD features that used on Cafe Shop website project and already tested on Postman API Testing tools
 
 ## Tools:
-* [node.js] - evented I/O for the backend
-* [Express] - fast node.js network app framework
+* [node.js] - Evented I/O for the backend
+* [Express] - Fast node.js network app framework
 * [Jwt] - Jsonwebtoken for secure authentication
 * [Multer] - Middleware to handle multipart/form-data requests
 
