@@ -6,3 +6,6 @@ https://github.com/tresnaadin/jenkins-frontend
 
 ## BackEnd
 https://github.com/tresnaadin/backend-jenkins
+
+# DevOps Architecture
+For DevOps Architecture of this project, you could see that on https://github.com/tresnaadin/cafe-shop_architecture
